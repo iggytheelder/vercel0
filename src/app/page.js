@@ -15,6 +15,9 @@ export default function Home() {
         />
         <ol>
           <li>
+            Hello and welcome!
+          </li>
+          <li>
             Get started by editing <code>src/app/page.js</code>.
           </li>
           <li>Save and see your changes instantly.</li>
